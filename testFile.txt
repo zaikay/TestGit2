@@ -2,3 +2,6 @@ My first line
 My second line
 My therd line
 My 4th line
+x
+y
+z
